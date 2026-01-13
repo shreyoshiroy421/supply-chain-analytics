@@ -1,5 +1,7 @@
 # Supply Chain Intelligence Pipeline
 
+**View my interactive Dashboard in Quadratic**: https://app.quadratichq.com/file/0588de0e-a5a6-4122-8c50-11d90b2dfca0
+
 # Overview
 This project automates the extraction of supply chain data from emails and converts it into actionable insights. It demonstrates a modern "AI-first" mindset for data engineering and analysis.
 
@@ -8,7 +10,6 @@ This project automates the extraction of supply chain data from emails and conve
 - **Database (Supabase/PostgreSQL):** Designed a Star Schema with Fact (`fact_aggregate`, `fact_order_line`) and Dimension tables.
 - **Analytics (Quadratic):** Used an AI-powered spreadsheet to pull SQL data and perform Python-based analysis.
 
-**View my interactive Dashboard in Quadratic**: https://app.quadratichq.com/file/0588de0e-a5a6-4122-8c50-11d90b2dfca0
 
 
 
