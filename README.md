@@ -8,6 +8,7 @@ This project automates the extraction of supply chain data from emails and conve
 # Key Features:
 
 -**Automated Data Ingestion:** Uses n8n to monitor emails, extract CSVs, and load them into a PostgreSQL database.
+
 -**AI-Native Analysis:** Uses Quadratic (AI Spreadsheet) to perform prompt-based analysis, allowing non-technical stakeholders to ask questions like "Show me top 5 customers in India by revenue."
 
 # Tech Stack
